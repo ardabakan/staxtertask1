@@ -1,3 +1,4 @@
+
 # Task Solution for Staxter
 
 ![Staxter](https://images.prismic.io/staxter/05d507f2-e0b1-4e12-9040-8d9fec7363a0_get-a-staxter-mastercard.svg?auto=compress,format)
@@ -31,12 +32,12 @@ message counter that this player sent.
 6. document for every class the responsibilities it has.
 7. additional challenge (nice to have) opposite to 5: have every player in a separate JAVA process.
 Constrains:
-• Please use pure Java as much as possible (no additional frameworks like spring, etc)
-• Please deliver a maven project with the source code only (no jars).
-• Please provide a shell script to start the program.
-• Everything what is not clearly specified is to be decided by developer. Everything what is specified is a hard requirement.
-• Please focus on design and not on technology, the technology should be the simplest possible that is achieving the target.
-• The focus of the exercise is to deliver the cleanest and clearest design that you can achieve (and the system has to be functional).
+* Please use pure Java as much as possible (no additional frameworks like spring, etc)
+* Please deliver a maven project with the source code only (no jars).
+* Please provide a shell script to start the program.
+* Everything what is not clearly specified is to be decided by developer. Everything what is specified is a hard requirement.
+* Please focus on design and not on technology, the technology should be the simplest possible that is achieving the target.
+* The focus of the exercise is to deliver the cleanest and clearest design that you can achieve (and the system has to be functional).
 ###  How to run the solution
 ####  1) Build the project
 > **How to?** 
